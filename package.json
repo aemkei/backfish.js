@@ -1,0 +1,16 @@
+{
+  "name": "backfish.js",
+  "version": "0.0.1",
+  "description": "A Fishbone.js drop-in replacement for Backbone.js",
+  "main": "backfish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "backbone": "*",
+    "underscore": "*"
+  },  
+  "repository": "",
+  "author": "Martin Kleppe <kleppe@ubilabs.net>",
+  "license": "BSD"
+}
